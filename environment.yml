@@ -2,6 +2,4 @@ channels:
   - conda-forge
 dependencies:
   - r-base=3.6
-  - r-randomForests
   - r-BiocManager
-  - bioconductor-rtracklayer
