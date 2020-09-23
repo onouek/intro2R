@@ -1,5 +1,14 @@
+name: compgenomr
 channels:
   - conda-forge
+  - bioconda
 dependencies:
-  - r-base=3.6
+  - r-base=4.0
+  - r-randomforest
   - r-BiocManager
+  - bioconductor-rtracklayer
+  - r-mass
+  - r-devtools
+  - r-stringr
+  - bioconductor-methylkit
+  - r-cowplot
