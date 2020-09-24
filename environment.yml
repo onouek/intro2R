@@ -10,5 +10,6 @@ dependencies:
   - r-mass
   - r-devtools
   - r-stringr
+  - bioconductor-rhtslib
   - bioconductor-methylkit
   - r-cowplot
