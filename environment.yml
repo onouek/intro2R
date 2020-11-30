@@ -13,6 +13,7 @@ dependencies:
   - bioconductor-rhtslib
   - bioconductor-methylkit
   - r-cowplot
+  - bioconductor-genomicranges
   - bioconductor-gviz
   - bioconductor-genomation
   - bioconductor-ggbio
