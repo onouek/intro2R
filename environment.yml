@@ -13,3 +13,5 @@ dependencies:
   - bioconductor-rhtslib
   - bioconductor-methylkit
   - r-cowplot
+  - bioconductor-gviz
+  - bioconductor-ggbio
